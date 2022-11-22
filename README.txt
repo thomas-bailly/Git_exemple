@@ -1,4 +1,4 @@
-Ceci est un exemple 
+Conflit ?
+Pas Conflit ?
 
-J'ai pas grand chose à dire. HAHAHAHAH
-J'ai une nouvelle ligne.
+Je ne sais pas, on va bien voir.
